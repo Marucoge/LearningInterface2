@@ -1,0 +1,6 @@
+c:\users\baker\documents\visual studio 2015\Projects\LearningInterface2\LearningInterface2\bin\Debug\LearningInterface2.exe.config
+c:\users\baker\documents\visual studio 2015\Projects\LearningInterface2\LearningInterface2\bin\Debug\LearningInterface2.exe
+c:\users\baker\documents\visual studio 2015\Projects\LearningInterface2\LearningInterface2\bin\Debug\LearningInterface2.pdb
+c:\users\baker\documents\visual studio 2015\Projects\LearningInterface2\LearningInterface2\obj\Debug\LearningInterface2.csprojResolveAssemblyReference.cache
+c:\users\baker\documents\visual studio 2015\Projects\LearningInterface2\LearningInterface2\obj\Debug\LearningInterface2.exe
+c:\users\baker\documents\visual studio 2015\Projects\LearningInterface2\LearningInterface2\obj\Debug\LearningInterface2.pdb
